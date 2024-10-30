@@ -13,7 +13,7 @@ My recent projects include a Video Chat Application and an Expense Tracker, both
 📫 Let’s connect:
 📞 +91 9380461970
 ✉️ rohansingh4593@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/rohansingh)
+🔗 [LinkedIn](https://www.linkedin.com/in/rohan-singh12/)
 🐱‍💻 [GitHub](https://github.com/rohansingh12)
 
 Feel free to reach out if you want to collaborate or chat about tech! 🚀
