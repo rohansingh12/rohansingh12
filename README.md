@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Powered Full Stack Applications**
 
-- 🌱 I’m currently learning **Django,Vue.js, AWS**
+- 🌱 I’m currently learning **RAG, Generative AI, LLMs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
